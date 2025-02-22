@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{828794F5-56A0-426E-A645-E1281C4E04F9}|..\\DAL\\DAL.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9E4D8A7-4FEE-410A-AAA4-BA446FB3DE3D}|..\\DAL\\DAL.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{650511E6-5EBD-4E86-845E-3107D02347B2}|..\\BLL\\BLL.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\bll\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B3F3102-C9CE-4F7E-9757-01A5A47E7549}|..\\BLL\\BLL.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\bll\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{650511E6-5EBD-4E86-845E-3107D02347B2}|..\\BLL\\BLL.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\bll\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B3F3102-C9CE-4F7E-9757-01A5A47E7549}|..\\BLL\\BLL.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\bll\\medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{650511E6-5EBD-4E86-845E-3107D02347B2}|..\\BLL\\BLL.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\bll\\medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B3F3102-C9CE-4F7E-9757-01A5A47E7549}|..\\BLL\\BLL.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\bll\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,35 +40,22 @@
               "RelativeDocumentMoniker": "..\\DAL\\Conexion.cs",
               "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\DAL\\Conexion.cs",
               "RelativeToolTip": "..\\DAL\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T19:48:47.034Z",
+              "WhenOpened": "2025-02-22T20:50:02.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Citas.cs",
-              "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\BLL\\Citas.cs",
-              "RelativeDocumentMoniker": "..\\BLL\\Citas.cs",
-              "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\BLL\\Citas.cs",
-              "RelativeToolTip": "..\\BLL\\Citas.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T19:37:31.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Medicos.cs",
               "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\BLL\\Medicos.cs",
               "RelativeDocumentMoniker": "..\\BLL\\Medicos.cs",
               "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\BLL\\Medicos.cs",
               "RelativeToolTip": "..\\BLL\\Medicos.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T19:33:46.312Z",
+              "WhenOpened": "2025-02-22T20:47:12.779Z",
               "EditorCaption": ""
             },
             {
@@ -79,9 +66,22 @@
               "RelativeDocumentMoniker": "..\\BLL\\Paciente.cs",
               "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\BLL\\Paciente.cs",
               "RelativeToolTip": "..\\BLL\\Paciente.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T19:25:46.161Z",
+              "WhenOpened": "2025-02-22T20:47:01.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Citas.cs",
+              "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\BLL\\Citas.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Citas.cs",
+              "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\BLL\\Citas.cs",
+              "RelativeToolTip": "..\\BLL\\Citas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:46:38.68Z",
               "EditorCaption": ""
             }
           ]

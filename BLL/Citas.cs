@@ -1,23 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
+
 
 namespace BLL
 {
     public class Citas
     {
         [Key]
-        public int ID { get; set; }
+        public int IdCita { get; set; }
 
         [Required]
-        public int PacienteID { get; set; }
+        public int IdPaciente { get; set; }
 
         [Required]
-        public int MedicoID { get; set; }
+        public int IdMedico { get; set; }
 
         [Required]
         public DateTime FechaHora { get; set; }
