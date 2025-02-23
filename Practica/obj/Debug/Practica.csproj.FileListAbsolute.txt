@@ -12,3 +12,4 @@ C:\Users\Lynx\Desktop\Practica de Examen\Practica-1\Practica\obj\Debug\Practica.
 C:\Users\Lynx\Desktop\Practica de Examen\Practica-1\Practica\obj\Debug\Practica.csproj.Up2Date
 C:\Users\Lynx\Desktop\Practica de Examen\Practica-1\Practica\obj\Debug\Practica.exe
 C:\Users\Lynx\Desktop\Practica de Examen\Practica-1\Practica\obj\Debug\Practica.pdb
+C:\Users\Lynx\Desktop\Practica de Examen\Practica-1\Practica\obj\Debug\Practica.FrmPaciente.resources
