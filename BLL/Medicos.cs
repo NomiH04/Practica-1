@@ -10,21 +10,16 @@ namespace BLL
 {
     public class Medicos
     {
-        [Key]
         public int IdMedico { get; set; }
 
-        public byte[] Foto { get; set; }
+        public string Foto { get; set; }
 
-        [Required, MaxLength(250)]
         public string NombreCompleto { get; set; }
 
-        [Required, MaxLength(100)]
         public string Especialidad { get; set; }
 
-        [Required, MaxLength(15)]
         public string Telefono { get; set; }
 
-        [Required, MaxLength(100)]
         public string HorarioAtencion { get; set; }
     }
 }

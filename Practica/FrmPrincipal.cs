@@ -16,5 +16,26 @@ namespace Practica
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmPaciente pantallaPaciente = new FrmPaciente();
+            pantallaPaciente.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FrmMedicos pantallaMedicos = new FrmMedicos();
+            pantallaMedicos.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            FrmCitas pantallaCitas = new FrmCitas();
+            pantallaCitas.Show();
+            this.Hide();
+        }
     }
 }

@@ -28,12 +28,14 @@ namespace Practica
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Quieres cerrar el sistema?", "",
+            if (MessageBox.Show("Quieres regresar a la pantalla principal?", "",
                MessageBoxButtons.YesNo,
                MessageBoxIcon.None)
                == DialogResult.Yes)
             {
-                Environment.Exit(0);
+                FrmPrincipal pantallaPrincipal = new FrmPrincipal();
+                pantallaPrincipal.Show();
+                this.Close();
             }
         }
 
