@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.txtHorarioAtencion = new System.Windows.Forms.TextBox();
             this.pbEditarImagen = new System.Windows.Forms.PictureBox();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.btnEliminar = new System.Windows.Forms.Button();
@@ -45,6 +44,7 @@
             this.labelDate = new System.Windows.Forms.Label();
             this.labelName = new System.Windows.Forms.Label();
             this.pictureBoxReturn = new System.Windows.Forms.PictureBox();
+            this.txtHorarioAtencion = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbEditarImagen)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbFoto)).BeginInit();
@@ -76,13 +76,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(542, 450);
             this.panel1.TabIndex = 1;
-            // 
-            // txtHorarioAtencion
-            // 
-            this.txtHorarioAtencion.Location = new System.Drawing.Point(222, 171);
-            this.txtHorarioAtencion.Name = "txtHorarioAtencion";
-            this.txtHorarioAtencion.Size = new System.Drawing.Size(200, 20);
-            this.txtHorarioAtencion.TabIndex = 20;
             // 
             // pbEditarImagen
             // 
@@ -215,6 +208,13 @@
             this.pictureBoxReturn.TabIndex = 0;
             this.pictureBoxReturn.TabStop = false;
             this.pictureBoxReturn.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // txtHorarioAtencion
+            // 
+            this.txtHorarioAtencion.Location = new System.Drawing.Point(222, 171);
+            this.txtHorarioAtencion.Name = "txtHorarioAtencion";
+            this.txtHorarioAtencion.Size = new System.Drawing.Size(200, 20);
+            this.txtHorarioAtencion.TabIndex = 20;
             // 
             // FrmMedicos
             // 

@@ -3,39 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\practica\\frmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\practica\\frmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\frmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\practica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\practica\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\practica\\frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\practica\\frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\practica\\frmmedicos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\frmmedicos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmmedicos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\practica\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,10 +47,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B3F3102-C9CE-4F7E-9757-01A5A47E7549}|..\\BLL\\BLL.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\bll\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\practica\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E71AF1F9-17F0-41D7-B98C-2102EBD26473}|Practica.csproj|solutionrelative:frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B3F3102-C9CE-4F7E-9757-01A5A47E7549}|..\\BLL\\BLL.csproj|c:\\users\\lynx\\desktop\\practica de examen\\practica-1\\bll\\medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -59,7 +59,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,31 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmMedicos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmMedicos.cs",
-              "RelativeDocumentMoniker": "FrmMedicos.cs",
-              "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmMedicos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FrmMedicos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T23:16:31.514Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmPaciente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmPaciente.cs",
-              "RelativeDocumentMoniker": "FrmPaciente.cs",
-              "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmPaciente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FrmPaciente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T23:16:15.154Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "FrmPaciente.cs",
               "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmPaciente.cs",
               "RelativeDocumentMoniker": "FrmPaciente.cs",
@@ -108,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "FrmMedicos.cs",
               "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmMedicos.cs",
               "RelativeDocumentMoniker": "FrmMedicos.cs",
-              "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmMedicos.cs",
-              "RelativeToolTip": "FrmMedicos.cs",
-              "ViewState": "AgIAAAwBAAAAAAAAAADwvx8BAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmMedicos.cs*",
+              "RelativeToolTip": "FrmMedicos.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwB8BAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T23:17:23.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "FrmPrincipal.cs",
@@ -133,20 +109,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "FrmPrincipal.cs",
               "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmPrincipal.cs",
               "RelativeToolTip": "FrmPrincipal.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvyUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T23:44:55.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCitas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmCitas.cs",
+              "RelativeDocumentMoniker": "FrmCitas.cs",
+              "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmCitas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmCitas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:17:37.876Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMedicos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmMedicos.cs",
+              "RelativeDocumentMoniker": "FrmMedicos.cs",
+              "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmMedicos.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FrmMedicos.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:16:31.514Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "FrmPaciente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmPaciente.cs",
+              "RelativeDocumentMoniker": "FrmPaciente.cs",
+              "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmPaciente.cs [Design]",
+              "RelativeToolTip": "FrmPaciente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:16:15.154Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FrmMedicos.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmMedicos.Designer.cs",
               "RelativeDocumentMoniker": "FrmMedicos.Designer.cs",
@@ -159,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FrmPrincipal.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmPrincipal.Designer.cs",
               "RelativeDocumentMoniker": "FrmPrincipal.Designer.cs",
@@ -172,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\DAL\\Conexion.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Conexion.cs",
@@ -180,12 +192,11 @@
               "RelativeToolTip": "..\\DAL\\Conexion.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAwwGkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T23:35:53.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T23:35:53.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Citas.cs",
               "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\BLL\\Citas.cs",
               "RelativeDocumentMoniker": "..\\BLL\\Citas.cs",
@@ -193,12 +204,11 @@
               "RelativeToolTip": "..\\BLL\\Citas.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T23:38:33.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T23:38:33.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -206,24 +216,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T23:28:15.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FrmCitas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmCitas.cs",
-              "RelativeDocumentMoniker": "FrmCitas.cs",
-              "ToolTip": "C:\\Users\\Lynx\\Desktop\\Practica de Examen\\Practica-1\\Practica\\FrmCitas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FrmCitas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T23:17:37.876Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2025-02-23T23:28:15.697Z"
             },
             {
               "$type": "Document",
@@ -235,8 +228,7 @@
               "RelativeToolTip": "..\\BLL\\Medicos.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T23:20:13.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T23:20:13.151Z"
             }
           ]
         }

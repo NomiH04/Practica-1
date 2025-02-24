@@ -37,5 +37,10 @@ namespace Practica
             pantallaCitas.Show();
             this.Hide();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Application.Exit(); // Cierra la aplicación
+        }
     }
 }
